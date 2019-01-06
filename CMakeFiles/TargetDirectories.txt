@@ -1,0 +1,3 @@
+/home/lanza/Documents/tutorials/termemu/eduterm/CMakeFiles/rebuild_cache.dir
+/home/lanza/Documents/tutorials/termemu/eduterm/CMakeFiles/eduterm.dir
+/home/lanza/Documents/tutorials/termemu/eduterm/CMakeFiles/edit_cache.dir
